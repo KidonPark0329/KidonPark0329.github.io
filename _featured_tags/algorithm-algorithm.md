@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: Algorithm
-slug: Coding Test
-category: Coding Test
+slug: algorithm
+category: algorithm
 menu: false
 order: 1
 ---
