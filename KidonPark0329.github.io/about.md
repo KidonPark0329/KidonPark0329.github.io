@@ -1,18 +1,15 @@
----
-layout: page
+﻿---
+layout: about
 title: About
-permalink: /about/
+menu: true
+order: 1
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 소개
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+생각을 담는 공간입니다.
+* AI를 연구하고 있으며 강화학습과 AI 어플리케이션에 관심이 있으며 현재는 금융 인공지능을 연구하고 있습니다.
+* 혼자만 생각하지 않고 공유하고 토론하는 것을 환영합니다.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
