@@ -1,10 +1,10 @@
----
+﻿---
 layout: list
-title: Unclassified
-slug: unclassified
+title: Algorithm
+slug: algorithm
 menu: true
 submenu: false
-order: 5
+order: 8
 description: >
   경제. 취미. 그 외 살면서 필요한 기타 문서.
 ---
