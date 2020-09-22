@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] %}
 
 {% if author.about %}
@@ -5,3 +6,20 @@
     {% include author.html author=author heading='About' heading_tag='h2' %}
   </aside>
 {% endif %}
+=======
+<header class="site-category">
+  <ul>
+    
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "category" %}
+          <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    
+</ul>
+</header>
+>>>>>>> 47b7723fba36c3e2d20e4b643055ee9e12c18936
