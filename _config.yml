@@ -13,12 +13,12 @@ url:                 https://KidonPark0329.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "Kidon Park's Blog."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  ML Researcher
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:

@@ -1,7 +1,7 @@
-﻿---
+---
 layout: list
-title: Algorithm
-slug: algorithm
+title: Unclassified
+slug: unclassified
 menu: true
 submenu: false
 order: 5
