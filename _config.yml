@@ -22,9 +22,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
-
+  name:              KidonPark0329
+  email:             kd_park@korea.ac.kr
 # Fallback image and color
 image:               /assets/img/main_left.jpg
 color:               '#4f86aa'
@@ -48,10 +47,10 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    theorydb
+disqus_shortname:    KidonPark
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by theorydb'
+copyright:           '&copy; 2019.04. by KidonPark'
 
 # Format of the permalinks
 permalink:           pretty
