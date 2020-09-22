@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% assign category = site.featured_categories | where: "slug", page.slug | first %}
+{% assign category = site.featured_categories |  , }
 
 {% assign tag = site.featured_tags | where: "category", page.slug %}
 
